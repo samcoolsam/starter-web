@@ -9,6 +9,8 @@ Sample website with plenty of files for demos
 # Deployment
 
 This is deployment information
-another ilne
-another line
-another line
+
+
+# Copyright
+
+This is copyright notice
