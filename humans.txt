@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sam Bakshi bakshi.sameer@gmail.com @sambak
 
 # THANKS
 
