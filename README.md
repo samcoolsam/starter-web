@@ -13,4 +13,4 @@ This is deployment information
 
 # Copyright
 
-This is copyright notice. With some more text
+Barely anything
